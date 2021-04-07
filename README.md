@@ -7,7 +7,7 @@ Feel free to submit suggestions as issues or pull requests! The only requirement
 
 ## Global Data
 
-###Copernicus Global Land Service:###
+### Copernicus Global Land Service: ###
 - Biophysical variables describing the state and evolution of vegetation, energy budget, water cycle and cryosphere at global scale.
 - https://land.copernicus.eu/global/products/
 
